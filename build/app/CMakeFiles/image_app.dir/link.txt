@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/image_app.dir/link.d CMakeFiles/image_app.dir/main.cpp.o -o image_app  ../image_processing/libimage_processing.a

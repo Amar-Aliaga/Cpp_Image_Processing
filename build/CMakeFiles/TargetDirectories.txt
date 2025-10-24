@@ -1,0 +1,8 @@
+/home/amar-aliaga/Desktop/Cpp_Image_Processing/Cpp_Image_Processing/build/CMakeFiles/edit_cache.dir
+/home/amar-aliaga/Desktop/Cpp_Image_Processing/Cpp_Image_Processing/build/CMakeFiles/rebuild_cache.dir
+/home/amar-aliaga/Desktop/Cpp_Image_Processing/Cpp_Image_Processing/build/image_processing/CMakeFiles/image_processing.dir
+/home/amar-aliaga/Desktop/Cpp_Image_Processing/Cpp_Image_Processing/build/image_processing/CMakeFiles/edit_cache.dir
+/home/amar-aliaga/Desktop/Cpp_Image_Processing/Cpp_Image_Processing/build/image_processing/CMakeFiles/rebuild_cache.dir
+/home/amar-aliaga/Desktop/Cpp_Image_Processing/Cpp_Image_Processing/build/app/CMakeFiles/image_app.dir
+/home/amar-aliaga/Desktop/Cpp_Image_Processing/Cpp_Image_Processing/build/app/CMakeFiles/edit_cache.dir
+/home/amar-aliaga/Desktop/Cpp_Image_Processing/Cpp_Image_Processing/build/app/CMakeFiles/rebuild_cache.dir
