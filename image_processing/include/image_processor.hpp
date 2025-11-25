@@ -44,4 +44,23 @@ class Image {
 
         ImageFormat detectImageFormat(const char *filename);
 
+        Image &grayscaleAverage();
+        Image &grayscaleLuminance();
+
+        Image &colorMask(uint8_t r, uint8_t g, uint8_t b);
+
+        Image &flipX();
+        Image &flipY();
+
+        Image &rotate90();
+
+        Image &invert();
+
+        Image &sepiaTone();
+        Image &cropImage(uint16_t x_cord, uint16_t y_cord, uint16_t width, uint16_t height);
+
+        Image &meanBlurr();
+
+        Image &testImage();
+
 };

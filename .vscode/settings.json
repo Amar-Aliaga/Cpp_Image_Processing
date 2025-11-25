@@ -71,6 +71,7 @@
         "__nullptr": "cpp",
         "queue": "cpp",
         "stack": "cpp",
-        "filesystem": "cpp"
+        "filesystem": "cpp",
+        "ios": "cpp"
     }
 }
